@@ -1,0 +1,21 @@
+h1 {
+    color: rgb(228, 26, 26);
+    font-family: Verdana;
+    text-align: center;
+}
+
+.authors {
+    color: bisque;
+    font-size: 15px;  
+
+}
+
+.last_par {
+    font-family: monospace;
+    font-size: larger;
+    color: aqua;
+}
+
+.images {
+    text-align: center;
+}
